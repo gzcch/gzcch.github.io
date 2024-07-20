@@ -16,8 +16,8 @@ and  <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAAAJ&vi
 Currently, I am a visiting student at the <a href="https://www.nextcenter.org/" target="_blank"> NEXT++ lab</a>  at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>  and and I am very fortunate to be advised by  Prof. <a href="https://www.chuatatseng.com/" target="_blank"> Chua Tat Seng</a>  and  <a href="https://anzhang314.github.io/" target="_blank"> An Zhang</a>. 
 
 
- 
-## Research Interests
+Research Interests
+======
 - **Alignment in AI:**    Focused on creating trustable and safe AI systems.
 - **Large Multimodal Models:**   Specializing in preference tuning, addressing hallucination, ensuring safety, and other related aspects.
 - **Multimodal representation learning:** learning useful representations for multimodal learning
