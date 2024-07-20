@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am an undergraduated student majoring in Computer Science and Technology at Yingcai Honors College, <a href="https://en.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China (UESTC)</a>.
-My research interests focus on Alignment in AI, Large Vision-Language Models, and Multimodal learning.
+My research interests focus on Alignment in AI, Large Multimodal Models, and Multimodal representation learning.
 
 
 I previously worked as a machine-learning intern at UESTC, where I had the privilege of collaborating with Prof. <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a> 
@@ -18,13 +18,9 @@ Currently, I am a visiting student at the <a href="https://www.nextcenter.org/" 
 
  
 ## Research Interests
-- **Large Vision-language Model:** Especially fintunig and security issues in  large vision-language models, (RLHF, hallucination, attack, etc.)
-- **Multi-view Representation Learning:**   Exploring better representations for multimodal data in the real world
-
-
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
+- **Alignment in AI:**    Focused on creating trustable and safe AI systems.
+- **Large Multimodal Models:**   Specializing in preference tuning, addressing hallucination, ensuring safety, and other related aspects.
+- **Multimodal representation learning:** learning useful representations for multimodal learning
 
 
 
