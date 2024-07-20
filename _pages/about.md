@@ -17,3 +17,35 @@ Currently, I am a visiting student at the <a href="https://www.nextcenter.org/" 
 
 
  
+## Research Interests
+- **Large Vision-language Model:** Especially fintunig and security issues in  large vision-language models, (RLHF, hallucination, attack, etc.)
+- **Multi-view Representation Learning:**   Exploring better representations for multimodal data in the real world
+
+
+<!-- {% include_relative _includes/publications.md %} -->
+
+{% include_relative _includes/projects.md %}
+
+
+
+
+
+## News
+
+<!-- - **[Apr. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
+         -->
+ - **[Oct. 2023]**  The short version of *Analyzing and Mitigating Object Hallucination in Large Vision-Language Models* was accepted by NeurIPS workshop 2023.
+  - **[Sep. 2023]**  *A Novel Approach for Effective Multi-View Clustering with Information-Theoretic Perspective* was accepted by NeurIPS 2023.
+ - **[May. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
+
+
+## Experiences
+
+-  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
+- **[May. 2022 -- now]** I'm a machine-learning researcher at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
+
+
+## Awards
+- **[Second Prize.2022]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
+- **[Second Prize.2023]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
+
