@@ -38,8 +38,8 @@ News
 
 Experiences
 ======
--  **[June. 2024 -- now]**  I am a visiting student at the <a href="https://www.nextcenter.org/" target="_blank"> NEXT++ lab</a>  at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a> supervised by  Prof. <a href="https://www.chuatatseng.com/" target="_blank"> Chua Tat Seng</a>  and  <a href="https://anzhang314.github.io/" target="_blank"> An Zhang</a>. 
--  **[May. 2023 -- June. 2024]**  I'm a remote intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
+-  **[June. 2024 -- now]**  I am a visiting student at the <a href="https://www.nextcenter.org/" target="_blank"> NEXT++ lab</a>  at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a> supervised by  Prof. <a href="https://www.chuatatseng.com/" target="_blank"> Chua Tat Seng</a>  and  <a href="https://anzhang314.github.io/" target="_blank"> An Zhang</a>.  
+-  **[May. 2023 -- June. 2024]**  I'm a remote intern under  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> at the   <a href="https://www.unc.edu/"  target="_blank"> University of North Carolina (UNC)</a>. 
 - **[May. 2022 -- May. 2023]** I'm a machine-learning intern at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
 
 
