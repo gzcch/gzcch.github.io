@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=V5X1gdAAAAAJ}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -12,7 +12,11 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
+
+You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=V5X1gdAAAAAJ) profile.
+
+(* indicate equal contribution)
 
 Conference Papers (*Equal contribution)
 ======
