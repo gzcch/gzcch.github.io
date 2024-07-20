@@ -36,11 +36,11 @@ Conference Papers (*Equal contribution)
 Preprint
 ======
 
-1. **Chenhang Cui\*, Yiyang Zhou\*, Xiangyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao.** Holistic Analysis of Hallucination in Large Vision-Language Models: Bias and Interference Challenges (ACL Under review). [pdf](https://arxiv.org/pdf/2311.03287.pdf)
+**Chenhang Cui\*, Yiyang Zhou\*, Xiangyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao.** Holistic Analysis of Hallucination in Large Vision-Language Models: Bias and Interference Challenges (ACL Under review). [pdf](https://arxiv.org/pdf/2311.03287.pdf)
 
-2. **Yiyang Zhou\*, Chenhang Cui\*, Rafael Rafailov, Chelsea Finn, Huaxiu Yao.** Aligning Modalities in Vision Large Language Models via Preference Fine-tuning (NeurIPS under review). [pdf](https://arxiv.org/pdf/2402.11411)
+**Yiyang Zhou\*, Chenhang Cui\*, Rafael Rafailov, Chelsea Finn, Huaxiu Yao.** Aligning Modalities in Vision Large Language Models via Preference Fine-tuning (NeurIPS under review). [pdf](https://arxiv.org/pdf/2402.11411)
 
-
+**Yiyang Zhou, Zhiyuan Fan, Dongjie Cheng, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao** Calibrated self-rewarding vision language models [pdf](https://arxiv.org/pdf/2405.14622)  
 
 
 Journal Publications
