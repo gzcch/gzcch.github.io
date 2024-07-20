@@ -43,7 +43,9 @@ Experiences
 - **[May. 2022 -- now]** I'm a machine-learning researcher at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
 
 
-## Awards
+Awards
+======
+
 - **[Second Prize.2022]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
 - **[Second Prize.2023]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
 
