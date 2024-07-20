@@ -26,7 +26,8 @@ Research Interests
 
 
 
-## News
+News
+======
 
 <!-- - **[Apr. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
          -->
@@ -35,7 +36,8 @@ Research Interests
  - **[May. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
 
 
-## Experiences
+Experiences
+======
 
 -  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
 - **[May. 2022 -- now]** I'm a machine-learning researcher at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
