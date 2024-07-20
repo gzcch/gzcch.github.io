@@ -39,8 +39,8 @@ News
 Experiences
 ======
 
--  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
-- **[May. 2022 -- now]** I'm a machine-learning researcher at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
+-  **[May. 2023 -- June. 2024]**  I'm a remote intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
+- **[May. 2022 -- May. 2023]** I'm a machine-learning intern at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
 
 
 Awards
@@ -48,4 +48,5 @@ Awards
 
 - **[Second Prize.2022]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
 - **[Second Prize.2023]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
-
+- **[HUAWEI Scholarship.2023]**  Awarded the Scholarship by HUAWEI company.
+- **[Sensetime Scholarship.2024]**   Awarded the Sensetime Scholarship by <a href="https://www.sensetime.com" target="_blank">Sensetime company</a>, an honor given to only 25 recipients in China in 2024.
