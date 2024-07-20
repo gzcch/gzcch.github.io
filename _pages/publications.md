@@ -27,6 +27,7 @@ Conference Papers (*Equal contribution)
 
 **Jingyu Pu, Chenhang Cui, Xinyue Chen, Yazhou Ren, Xiaorong Pu, Zhifeng Hao, S Yu Philip, Lifang He.** Adaptive Feature Imputation with Latent Graph for Deep Incomplete Multi-View Clustering. AAAI, 2023. [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/29380/30606) 
 
+**Zhaorun Chen, Yichao Du, Zichen Wen, Yiyang Zhou, Chenhang Cui, Zhenzhen Weng, Haoqin Tu, Chaoqi Wang, Zhengwei Tong, Qinglan Huang, Canyu Chen, Qinghao Ye, Zhihong Zhu, Yuqing Zhang, Jiawei Zhou, Zhuokai Zhao, Rafael Rafailov, Chelsea Finn, Huaxiu Yao**  MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge? ICML Workshop, 2024. [pdf](https://openreview.net/pdf?id=H6eELDnYvd)  
 
 Preprint
 ======
