@@ -30,15 +30,15 @@ News
 ======
 
 <!-- - **[Apr. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
-         -->
+         
  - **[Oct. 2023]**  The short version of *Analyzing and Mitigating Object Hallucination in Large Vision-Language Models* was accepted by NeurIPS workshop 2023.
   - **[Sep. 2023]**  *A Novel Approach for Effective Multi-View Clustering with Information-Theoretic Perspective* was accepted by NeurIPS 2023.
- - **[May. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
+ - **[May. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023. -->
 
 
 Experiences
 ======
-
+-  **[June. 2024 -- now]**  I am a visiting student at the <a href="https://www.nextcenter.org/" target="_blank"> NEXT++ lab</a>  at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a> supervised by  Prof. <a href="https://www.chuatatseng.com/" target="_blank"> Chua Tat Seng</a>  and  <a href="https://anzhang314.github.io/" target="_blank"> An Zhang</a>. 
 -  **[May. 2023 -- June. 2024]**  I'm a remote intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
 - **[May. 2022 -- May. 2023]** I'm a machine-learning intern at UESTC supervised by Prof.  <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a>.
 
