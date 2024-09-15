@@ -33,12 +33,13 @@ Conference Papers (*Equal contribution)
 
 **Zhaorun Chen, Yichao Du, Zichen Wen, Yiyang Zhou, Chenhang Cui, Zhenzhen Weng, Haoqin Tu, Chaoqi Wang, Zhengwei Tong, Qinglan Huang, Canyu Chen, Qinghao Ye, Zhihong Zhu, Yuqing Zhang, Jiawei Zhou, Zhuokai Zhao, Rafael Rafailov, Chelsea Finn, Huaxiu Yao**  MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge? ICML Workshop, 2024. [pdf](https://openreview.net/pdf?id=H6eELDnYvd)  
 
+**Yiyang Zhou\*, Chenhang Cui\*, Rafael Rafailov, Chelsea Finn, Huaxiu Yao.** Aligning Modalities in Vision Large Language Models via Preference Fine-tuning. ICML Workshop, 2024. [pdf](https://arxiv.org/pdf/2402.11411)
+
 Preprint
 ======
 
 **Chenhang Cui\*, Yiyang Zhou\*, Xiangyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao.** Holistic Analysis of Hallucination in Large Vision-Language Models: Bias and Interference Challenges. [pdf](https://arxiv.org/pdf/2311.03287.pdf)
 
-**Yiyang Zhou\*, Chenhang Cui\*, Rafael Rafailov, Chelsea Finn, Huaxiu Yao.** Aligning Modalities in Vision Large Language Models via Preference Fine-tuning (ACL under review). [pdf](https://arxiv.org/pdf/2402.11411)
 
 **Yiyang Zhou, Zhiyuan Fan, Dongjie Cheng, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao** Calibrated self-rewarding vision language models [pdf](https://arxiv.org/pdf/2405.14622)  
 
